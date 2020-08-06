@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MenuDemo</string>
+    <string name="long_press_on_me">Long Press On Me</string>
+</resources>
